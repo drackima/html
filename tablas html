@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <!--
+        No tengo libros favoritos
+    -->
+    <table>
+        <tr>
+            <td>Titulo</td>
+            <td>Autor</td>
+            <td>Año de publicacion</td>
+            <td>Enlace a Amazon</td>
+        </tr>
+        <tr>
+            <td>The Wager: A Tale of Shipwreck, Mutiny and Murder</td>
+            <td>David Grann</td>
+            <td>Abril 18, 2023</td>
+            <td><a href="https://www.amazon.com/-/es/David-Grann-ebook/dp/B0B6Z4SVTH/ref=sr_1_1?adgrpid=146318025281&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKU4cf7KbjjmgHL1yAPCB2q6vS8UpKHqHFuNml6Q4ZBSuBsRrkDOIhoCL78QAvD_BwE&hvadid=630111055365&hvdev=c&hvlocphy=9060923&hvnetw=g&hvqmt=b&hvrand=13955945843745303416&hvtargid=kwd-3158521396&hydadcr=3170_13618994&keywords=kindle+ebooks&qid=1684975747&sr=8-1">https://www.amazon.com/-/es/David-Grann-ebook/dp/B0B6Z4SVTH/ref=sr_1_1?adgrpid=146318025281&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKU4cf7KbjjmgHL1yAPCB2q6vS8UpKHqHFuNml6Q4ZBSuBsRrkDOIhoCL78QAvD_BwE&hvadid=630111055365&hvdev=c&hvlocphy=9060923&hvnetw=g&hvqmt=b&hvrand=13955945843745303416&hvtargid=kwd-3158521396&hydadcr=3170_13618994&keywords=kindle+ebooks&qid=1684975747&sr=8-1</a></td>
+        </tr>
+        <tr>
+            <td>The Covenant of Water (Oprah's Book Club)</td>
+            <td>Abraham Verghese</td>
+            <td>Mayo 2, 2023</td>
+            <td><a href="https://www.amazon.com/-/es/Abraham-Verghese-ebook/dp/B0BJSGV831/ref=sr_1_2?adgrpid=146318025281&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKU4cf7KbjjmgHL1yAPCB2q6vS8UpKHqHFuNml6Q4ZBSuBsRrkDOIhoCL78QAvD_BwE&hvadid=630111055365&hvdev=c&hvlocphy=9060923&hvnetw=g&hvqmt=b&hvrand=13955945843745303416&hvtargid=kwd-3158521396&hydadcr=3170_13618994&keywords=kindle+ebooks&qid=1684976013&sr=8-2">https://www.amazon.com/-/es/Abraham-Verghese-ebook/dp/B0BJSGV831/ref=sr_1_2?adgrpid=146318025281&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKU4cf7KbjjmgHL1yAPCB2q6vS8UpKHqHFuNml6Q4ZBSuBsRrkDOIhoCL78QAvD_BwE&hvadid=630111055365&hvdev=c&hvlocphy=9060923&hvnetw=g&hvqmt=b&hvrand=13955945843745303416&hvtargid=kwd-3158521396&hydadcr=3170_13618994&keywords=kindle+ebooks&qid=1684976013&sr=8-2</a></td>
+        </tr>
+        <tr>
+            <td>Happy Place</td>
+            <td>Emily Henry</td>
+            <td>Abril 25, 2023</td>
+            <td><a href="https://www.amazon.com/-/es/Emily-Henry-ebook/dp/B0B7L29TB7/ref=sr_1_3?adgrpid=146318025281&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKU4cf7KbjjmgHL1yAPCB2q6vS8UpKHqHFuNml6Q4ZBSuBsRrkDOIhoCL78QAvD_BwE&hvadid=630111055365&hvdev=c&hvlocphy=9060923&hvnetw=g&hvqmt=b&hvrand=13955945843745303416&hvtargid=kwd-3158521396&hydadcr=3170_13618994&keywords=kindle+ebooks&qid=1684976013&sr=8-3">https://www.amazon.com/-/es/Emily-Henry-ebook/dp/B0B7L29TB7/ref=sr_1_3?adgrpid=146318025281&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKU4cf7KbjjmgHL1yAPCB2q6vS8UpKHqHFuNml6Q4ZBSuBsRrkDOIhoCL78QAvD_BwE&hvadid=630111055365&hvdev=c&hvlocphy=9060923&hvnetw=g&hvqmt=b&hvrand=13955945843745303416&hvtargid=kwd-3158521396&hydadcr=3170_13618994&keywords=kindle+ebooks&qid=1684976013&sr=8-3</a></td>
+        </tr>
+    </table>
+</body>
+</html>
