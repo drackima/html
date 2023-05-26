@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de imagen-video-musica</title>
+</head>
+<body>
+    <div>
+        <h1>Aprendiendo a utilizar imagenes</h1>
+        <img src="https://articles-img.sftcdn.net/f_auto,t_article_cover_xl/auto-mapping-folder/sites/2/2023/03/fornite-capitulo-4-temporada-2.jpg" alt="Imagen de fornite" width="300" height="300">
+    </div>
+    <div>
+        <h1>Aprendiendo a utilizar videos</h1>
+        <video controls autoplay muted loop>
+            <source src="Bad Bunny - WHERE SHE GOES (Video Oficial).mp4" type="video/mp4" width="300" height="300">
+        </video>
+    </div>
+    <div>
+        <h1>Aprendiendo a utilizar audios</h1>
+        <audio controls autoplay loop>
+            <source src="Bad Bunny - WHERE SHE GOES (Video Oficial).mp3" type="audio/mp3" width="300" height="300">
+        </audio>
+    </div>
+</body>
+</html>
